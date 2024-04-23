@@ -1,0 +1,4 @@
+C:\Users\Acer\OneDrive\İş masası\ConsoleApp20\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\İş masası\ConsoleApp20\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\İş masası\ConsoleApp20\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\İş masası\ConsoleApp20\ConsoleApp14\obj\Debug\net8.0\ConsoleApp14.csproj.CoreCompileInputs.cache
